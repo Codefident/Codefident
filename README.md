@@ -1,16 +1,30 @@
-## Hi there 👋
+## Hello 👋 I'm Piotr
 
-<!--
-**Codefident/Codefident** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About me
 
-Here are some ideas to get you started:
+🖥 I'm a Computer Science student, currently in my 3rd year at AGH University of Science and Technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I like and I'm interested in:
+
+- 🚄 traveling (especially abroad)
+- 📖 learning languages (and about languages)
+- 🚉 transportation systems
+- 🚗 driving (and cars in general)
+
+Currently, I'm:
+
+- 🐹 learning Go
+
+### Tech Stack
+
+The technologies listed below are the ones that I've used during my time at school and university:
+
+- 🌐 HTML | CSS | JavaScript | TypeScript | React | NodeJS
+- 🐍 Python | Flask | NumPy | PyGame
+- ☕ Java
+- 🚀 C | C++
+- 🧩 MiniZinc
+- 🛢 SQL
+- 🐳 Docker
+- :octocat: Git
+- 🐧 Linux
