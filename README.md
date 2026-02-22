@@ -12,15 +12,15 @@ I like and I'm interested in:
 - 🚗 driving (and cars in general)
 
 Currently, I'm:
-
-- 🐹 learning Go
+- 🦚 learning C# 
 
 ### Tech Stack
 
 The technologies listed below are the ones that I've used during my time at school and university:
 
 - 🌐 HTML | CSS | JavaScript | TypeScript | React | NodeJS
-- 🐍 Python | Flask | NumPy | PyGame
+- 🐍 Python | Flask | FastAPI | NumPy | PyGame
+- 🐹 Go
 - ☕ Java
 - 🚀 C | C++
 - 🧩 MiniZinc
